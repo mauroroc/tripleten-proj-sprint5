@@ -6,3 +6,6 @@ App feito utilizando o Streamlit e puxando dados de uma base em CSV fornecida pe
 
 # Funcionalidades:
 Exibir histograma e gráfico de dispersão
+
+# Link para acessar o app no Render:
+https://tripleten-proj-sprint5.onrender.com
